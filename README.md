@@ -11,6 +11,10 @@ The dataset used in this project is <b>U.S. National Epidemiological Survey on A
 ## Visualizing the dataset:
 Data visualization is the presentation of data in a pictorial or graphical format. A primary goal of data visualization is to communicate information clearly and efficiently via statistical graphics, plots and information graphics. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. One of the most important benefits of visualization is that it allows us visual access to massive amounts of data in easily digestible visuals. Well-designed data graphics are usually the simplest and at the same time, the most powerful. For this project data visualization is important because it helps in identifying the factors that need attention. Variables which effects other variables. This helps in clarification of which variables to be placed where and when the analysis to be done. 
 
+![ages](https://user-images.githubusercontent.com/20802996/28038276-59481d16-658c-11e7-8166-8e0772b5494a.jpg)
+
+
+
 ## Data Management:
 Before performing any analysis, it is more important to understand what data is taken for analysis and how they are grouped together. It is important to know how many values of each are present in a variable as this is not a direct dataset. This dataset contains values which have different meaning as explained above in the introduction of the dataset. In this the adult age groups i.e., 18-25 in this dataset are categorized into 4 groups which helps in finding which age group smoke more cigarettes. This also helps in finding the variance for future analysis which involve statistical analysis.
 
@@ -100,6 +104,9 @@ There is no association between number of cigarettes smoked per month and drank 
 <b>ALTERNATE HYPOTHESIS:(Ha)</b>
 
 There is an association between number of cigarettes smoked per month and drank at least one alcoholic drink in last 12 months.
+
+![kjzdbvzk](https://user-images.githubusercontent.com/20802996/28038387-b7c31738-658c-11e7-9508-d7803a5d069c.jpg)
+
 
 There is an association between smoking frequency and drank at least one alcoholic drink in past 12 months. From the first output screen the it can be observed that chi square value is 3.81 and associate p value is 0.57. Since there is no significant difference and p value > 0.05 we can accept null hypothesis. Furthermore Bonferroni Adjustment is used and compared all the 6 levels with USEFREQMO. From the bar graph, it can be visualized that there are no much significant changes between all the comparisons except for values 2.5 and 22.0 which are very slightly different. 
 
